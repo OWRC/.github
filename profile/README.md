@@ -1,12 +1,12 @@
-# Our Github Pages:
+# Our Github Pages (links):
 
 - [Metadata](https://owrc.github.io/metadata/content/toc.html)
-- [Database Manual](https://github.com/OWRC/database-manual)
+- [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Web Mapping Themes](https://owrc.github.io/webmapping/)
 - [Geologic Layers](https://owrc.github.io/GeoLayers/)
 - [Monitoring](https://owrc.github.io/monitoring/)
 - Planning
-- [Data Products and Interpolation](https://github.com/OWRC/interpolants/)
+- [Data Products and Interpolation](https://owrc.github.io/interpolants/)
 - [Database Snapshots](https://owrc.github.io/snapshots/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [General Information](https://owrc.github.io/info/)<!-- , also:  -->
