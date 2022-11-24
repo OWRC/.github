@@ -2,4 +2,4 @@
 
 [Database Manual](https://github.com/OWRC/database-manual)
 
-[Data Products and Interpolation](/interpolants/)
+[Data Products and Interpolation](./interpolants/)
