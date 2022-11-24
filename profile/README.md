@@ -9,22 +9,21 @@
 - [Data Products and Interpolation](https://github.com/OWRC/interpolants/)
 - [Database Snapshots](https://owrc.github.io/snapshots/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
-- [General Information](https://owrc.github.io/info/), also: 
-  - [Evaporation](https://owrc.github.io/info/evaporation/)
+- [General Information](https://owrc.github.io/info/)<!-- , also:  -->
+  <!-- - [Evaporation](https://owrc.github.io/info/evaporation/)
   - [Geothermal modelling](https://owrc.github.io/info/geothermal/)
   - [Hydrograph separation](https://owrc.github.io/info/hydrographseparation/)
   - [hydrograph disaggregation](https://owrc.github.io/info/hydrographdisaggregation/)
   - [Streamflow recession coefficient](https://owrc.github.io/info/recessioncoefficient/)
   - [Multiphase flow through porous media](https://owrc.github.io/info/pmflow/)
   - [Shallow water overland flow](https://owrc.github.io/info/lia/)
-  - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/)
+  - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/) -->
 
-<br>
 
-# Resources
-- [Logos](https://github.com/OWRC/logos)
+<!-- # Resources -->
+<!-- - [Logos](https://github.com/OWRC/logos) -->
 
-# Help
+<!-- # Help -->
 ## Markdown "Cheatsheets":
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - http://tug.ctan.org/info/undergradmath/undergradmath.pdf
