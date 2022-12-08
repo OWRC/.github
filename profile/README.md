@@ -7,6 +7,7 @@
 - [Monitoring](https://owrc.github.io/monitoring/)
 - Planning
 - [Data Products and Interpolation](https://owrc.github.io/interpolants/)
+  - [Near real-time climatology](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
 - [Database Snapshots](https://owrc.github.io/snapshots/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [General Information](https://owrc.github.io/info/)<!-- , also:  -->
