@@ -1,4 +1,4 @@
-# Our Github Pages (links):
+# ORMGP Github Pages:
 
 - [Metadata](https://owrc.github.io/metadata/content/toc.html)
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
