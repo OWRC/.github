@@ -9,22 +9,14 @@
 - [Monitoring](https://owrc.github.io/monitoring/)
 - Planning
 - [Data Products and Interpolation](https://owrc.github.io/interpolants/)
-  - [Near real-time climatology](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
+  - [Near real-time climate data service](https://owrc.github.io/interpolants/sources/climate-data-service.html)
 - [Database Snapshots](https://owrc.github.io/snapshots/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [General Information](https://owrc.github.io/info/)<!-- , also:  -->
-  <!-- - [Evaporation](https://owrc.github.io/info/evaporation/)
-  - [Geothermal modelling](https://owrc.github.io/info/geothermal/)
-  - [Hydrograph separation](https://owrc.github.io/info/hydrographseparation/)
-  - [hydrograph disaggregation](https://owrc.github.io/info/hydrographdisaggregation/)
-  - [Streamflow recession coefficient](https://owrc.github.io/info/recessioncoefficient/)
-  - [Multiphase flow through porous media](https://owrc.github.io/info/pmflow/)
-  - [Shallow water overland flow](https://owrc.github.io/info/lia/)
-  - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/) -->
 
-
-<!-- # Resources -->
-<!-- - [Logos](https://github.com/OWRC/logos) -->
+# Resources
+- [Logos](https://github.com/OWRC/logos)
+- [Shapefiles](https://github.com/OWRC/geojson)
 
 <!-- # Help -->
 ## Markdown "Cheatsheets":
